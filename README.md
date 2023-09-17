@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adhithya Srivatsan</h1>
 <h3 align="center">A passionate full-stack developer from India.</h3>
-<img align="right" alt="streets" width="400" src="https://gifdb.com/images/high/quiet-street-in-japan-anime-scenery-j8uy3w9fxbxwrerb.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/dc/a2/f1/dca2f1d8b9a233a98cd7547c1a95ded4.gif">
 
 - 🔭 I’m currently working on [Discord Clone](https://github.com/addytrunks/discord-clone)
 
