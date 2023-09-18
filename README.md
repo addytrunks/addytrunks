@@ -23,6 +23,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=addytrunks&show_icons=true&locale=en&layout=compact" alt="addytrunks" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=addytrunks&show_icons=true&locale=en" alt="addytrunks" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=addytrunks&" alt="addytrunks" /></p>
