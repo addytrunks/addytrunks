@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Next JS and ML**
 
-- 👨‍💻 My portfolio ( cool af) [https://portfolio-addytrunks.vercel.app](https://portfolio-addytrunks.vercel.app)
+- 👨‍💻 [My portfolio](https://portfolio-58aa8r89u-addytrunks-projects.vercel.app)
 
 - 💬 Ask me about **React JS, Next JS**
 
