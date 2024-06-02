@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Adhithya Srivatsan</h1>
 <h3 align="center">A passionate full-stack developer from India.</h3>
 
-- 🌱 I’m currently learning **Next JS and ML**
+- 🌱 I’m currently learning **Computer Vision**
 
-- 👨‍💻 [My portfolio](https://portfolio-58aa8r89u-addytrunks-projects.vercel.app)
+- 👨‍💻 [My Portfolio](https://portfolio-58aa8r89u-addytrunks-projects.vercel.app)
 
 - 💬 Ask me about **React JS, Next JS**
 
 - 📫 How to reach me **addysrivats@gmail.com**
 
-- ⚡ Fun fact **I tend to give advices a lot and procrastinate**
+- ⚡ Fun fact **I tend to give pieces of advice a lot and procrastinate**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
