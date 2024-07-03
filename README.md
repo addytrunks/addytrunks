@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Computer Vision**
 
-- 👨‍💻 [My Portfolio](https://portfolio-58aa8r89u-addytrunks-projects.vercel.app)
+- 👨‍💻 [My Portfolio](https://portfolio-7g1f5mxkm-addytrunks-projects.vercel.app)
 
 - 💬 Ask me about **React JS, Next JS**
 
