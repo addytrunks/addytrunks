@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adhithya Srivatsan</h1>
 <h3 align="center">A passionate full-stack developer and an aspiring data scientist from India.</h3>
 
-- 🔭 I’m currently working on [Discord Clone](https://github.com/addytrunks/discord-clone)
-
-- 🌱 I’m currently learning **Next JS and ML**
+- 🌱 I’m currently learning **NLP and LLMs**
 
 - 👨‍💻 My portfolio ( cool af) [https://portfolio-addytrunks.vercel.app](https://portfolio-addytrunks.vercel.app)
 
