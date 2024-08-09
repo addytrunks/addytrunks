@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **NLP and LLMs**
 
-- 👨‍💻 My portfolio ( cool af) [https://portfolio-addytrunks.vercel.app](https://portfolio-addytrunks.vercel.app)
+- 👨‍💻 My portfolio ( cool af) [https://portfolio-six-indol-14.vercel.app](https://portfolio-six-indol-14.vercel.app)
 
 - 💬 Ask me about **React JS, Next JS, and ML**
 
