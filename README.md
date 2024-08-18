@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Adhithya Srivatsan</h1>
-<h3 align="center">A passionate full-stack developer and an aspiring data scientist from India.</h3>
+<h3 align="center">A passionate full-stack developer from India.</h3>
 
-- 🌱 I’m currently learning **NLP and LLMs**
+- 🔭 I’m currently working on [Discord Clone](https://github.com/addytrunks/discord-clone)
 
-- 👨‍💻 My portfolio ( cool af) [https://portfolio-six-indol-14.vercel.app](https://portfolio-six-indol-14.vercel.app)
+- 🌱 I’m currently learning **Next JS and ML**
 
-- 💬 Ask me about **React JS, Next JS, and ML**
+- 👨‍💻 My portfolio ( cool af) [https://portfolio-addytrunks.vercel.app](https://portfolio-addytrunks.vercel.app)
+
+- 💬 Ask me about **React JS, Next JS**
 
 - 📫 How to reach me **addysrivats@gmail.com**
 
-- ⚡ Fun fact **I tend to give advice a lot and procrastinate**
+- ⚡ Fun fact **I tend to give advices a lot and procrastinate**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
