@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Adhithya Srivatsan</h1>
 <h3 align="center">An aspiring Data Scientist and AI enthusiast from India.</h3>
 
-- 🔭 I’m currently working on [Discord Clone](https://github.com/addytrunks/discord-clone)
+- 🔭 I’m currently working on [GenAI](https://github.com/addytrunks/genai_guide)
 
 - 🌱 I’m currently learning **Next JS and ML**
 
-- 👨‍💻 My portfolio ( cool af) [https://portfolio-addytrunks.vercel.app](https://portfolio-addytrunks.vercel.app)
+- 👨‍💻 My portfolio ( cool af) [Portfolio](https://portfolio-six-indol-14.vercel.app))
 
-- 💬 Ask me about **React JS, Next JS**
+- 💬 Ask me about **React JS, Next JS, and ML**
 
 - 📫 How to reach me **addysrivats@gmail.com**
 
