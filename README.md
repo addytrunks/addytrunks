@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next JS and ML**
 
-- 👨‍💻 My portfolio ( cool af) [Portfolio](https://portfolio-six-indol-14.vercel.app))
+- 👨‍💻 My portfolio ( cool af ) [Portfolio](https://portfolio-six-indol-14.vercel.app)
 
 - 💬 Ask me about **React JS, Next JS, and ML**
 
