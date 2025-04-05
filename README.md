@@ -7,7 +7,7 @@
 
 - 👨‍💻 My portfolio [Portfolio](https://portfolio-six-indol-14.vercel.app)
 
-- 💬 Ask me about **React JS, Next JS, and ML**
+- 💬 Ask me about **React JS, Next JS,ML and GenAI**
 
 - 📫 How to reach me **addysrivats@gmail.com**
 
