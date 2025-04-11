@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **addysrivats@gmail.com**
 
-- ⚡ Fun fact **I tend to give advices a lot and procrastinate**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/addytrunks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="addytrunks" height="30" width="40" /></a>
