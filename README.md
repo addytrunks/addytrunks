@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [GenAI](https://github.com/addytrunks/genai_guide)
 
-- 🌱 I’m currently learning **Next JS and ML**
-
 - 👨‍💻 My portfolio [Portfolio](https://portfolio-six-indol-14.vercel.app)
 
 - 💬 Ask me about **React JS, Next JS,ML and GenAI**
