@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [GenAI](https://github.com/addytrunks/genai_guide)
 
-- 👨‍💻 My portfolio [Portfolio](https://portfolio-six-indol-14.vercel.app)
+- 👨‍💻 My portfolio [Portfolio](https://adhithyasrivatsan.netlify.app)
 
 - 💬 Ask me about **React JS, Next JS,ML and GenAI**
 
